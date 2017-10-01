@@ -4,7 +4,7 @@ Just upload images for blog [https://juniorabranches.herokuapp.com/]
 # Ferramentas Gratuitas para Empreendedores, Startups, Desenvolvedores e Designers
 
 ## Design + Código 
-> RECURSOS DE DESIGN GRATUITOS
+> RECURSOS DE DESIGN GRATUITOS]
 Nome | Website | Descrição
 ------------ | ------- | ------------
 Freebbble | Itens grátis de alta qualidade no Dribbble | http://freebbble.com/
