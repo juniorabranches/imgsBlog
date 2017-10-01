@@ -3,7 +3,7 @@ Just upload images for blog [https://juniorabranches.herokuapp.com/]
 
 # Ferramentas Gratuitas para Empreendedores, Startups, Desenvolvedores e Designers
 
-## ? Design + Código ?
+## Design + Código 
 > RECURSOS DE DESIGN GRATUITOS
 Nome | Website | Descrição
 ------------ | ------- | ------------
@@ -155,7 +155,7 @@ UI Blurbs | Rápidas biografias de usuários para usar em seus modelos | http://
 Copy Paste Character | Clique para copiar | http://copypastecharacter.com/
 Window Resizer | Veja como algo se parece em várias resoluções de tela | https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/details?hl=en
 
-## ? Business + Marketing  ?
+## Business + Marketing
 > WEBSITE GRATUITO + LOGO + HOSPEDAGEM + INVOICES
 Nome | Website | Descrição
 ------------ | ------- | ------------
@@ -302,7 +302,7 @@ Optimizely | Plataforma de otimização para websites e apps.
 Hello Bar | Ferramenta para testes A/B com diferentes CTAs & palavras de impacto.
 GrowthHackers | Possibilitando o crescimento. Juntos.
 
-## ? Trabalho & Produtividade ?
+## Trabalho & Produtividade
 > SOM PARA AJUDAR NA CONCENTRAÇÃO
 Nome | Website | Descrição
 ------------ | ------- | ------------
@@ -340,7 +340,7 @@ Where Nomads at | Encontre nômades digitais e viajantes do mundo inteiro | http
 Nomad Jobs | Os melhores trabalhos à distância nas melhores startups | http://nomadjobs.com/
 What’s It Like | Ajudando os viajantes a decidir QUANDO partir | http://www.whatsitlikeapp.com/
 
-## ? Descoberta & Aprendizado ?
+## Descoberta & Aprendizado
 > FERRAMENTAS DE DESCOBERTA & STARTUPS
 Nome | Website | Descrição
 ------------ | ------- | ------------
